@@ -1,7 +1,6 @@
 ### olá👋
 
-
-### my: Carlos Henrique Santos Oliveira
+### Carlos Henrique Santos Oliveira
 <!--
 **C-Henriquejs/C-Henriquejs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
